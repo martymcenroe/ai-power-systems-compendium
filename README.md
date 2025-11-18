@@ -70,7 +70,6 @@ A curated list of foundational papers and recent research on the application of 
 
 ### Grid Resilience & Digital Twins
 * **[AI Applications to Enhance Resilience in Power Systems and Microgrids—A Review](https://www.mdpi.com/2071-1050/16/12/4959)**: (MDPI) A comprehensive review of AI applications for grid resilience.
-* **[Enhancing Smart Grid Resilience by Integrating Machine Learning with Renewable Energy Agent](https://ieeexplore.ieee.org/document/10910431/)**: (IEEE Xplore) Research on ML and renewable energy agents for grid resilience.
 * **[How Can Machine Learning Improve Grid Resilience?](https://energy.sustainability-directory.com/question/how-can-machine-learning-improve-grid-resilience/)**: (Sustainability Directory) Discussion on ML techniques for improving grid resilience.
 * **[AI in action: Using digital twins to help utilities manage demand growth](https://www.icf.com/insights/energy/ai-digital-twins-help-utilities-manage-demand-growth)**: (ICF) Use cases for digital twins in managing demand growth.
 * **[Electrical digital twin - Siemens Global](https://www.siemens.com/global/en/products/energy/grid-software/planning/electrical-digital-twin.html)**: (Siemens) Overview of electrical digital twin technology.
