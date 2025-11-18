@@ -1,4 +1,4 @@
-# ai-power-systems-compendium# AI & ML Compendium for Power Systems
+# AI & ML Compendium for Power Systems
 
 An authoritative compendium of Artificial Intelligence (AI) and Machine Learning (ML) resources for the Bulk Power System (BPS) and utility sector.
 
@@ -7,6 +7,33 @@ As a Professional Engineer (PE, Power) and Enterprise Architect, I found it diff
 This list is intended for engineers, data scientists, and leaders working on grid modernization, renewable integration, load forecasting, and predictive maintenance.
 
 Contributions are welcome.
+
+---
+
+## 🧭 Playbooks by Persona
+
+This compendium is designed to serve multiple audiences. Find your role below for a curated starting point.
+
+### 1. For the PE / Power Systems Engineer
+
+You are focused on reliability, grid modernization, and practical applications. Your playbook focuses on proven open-source tools for simulation and predictive maintenance.
+* **Start with:** [Foundational Open Source Projects](#-foundational-open-source-projects) (especially PyPSA, HELICS)
+* **Dive deep on:** [Predictive Maintenance Research](#predictive-maintenance)
+* **Explore:** [Grid Resilience & Digital Twins](#grid-resilience--digital-twins)
+
+### 2. For the Data Scientist / ML Engineer
+
+You are focused on modeling, forecasting, and data pipelines. Your playbook highlights repositories for time-series analysis and key research papers on ML applications.
+* **Start with:** [OpenSTEF (Short-Term Energy Forecasting)](#core-projects)
+* **Explore:** [PyPSA (Python for Power System Analysis)](#core-projects)
+* **Review:** [General Applications & Overviews](#general-applications--overviews)
+
+### 3. For the AI Architect / CTO
+
+You are focused on strategy, emerging technologies, and architectural design. Your playbook centers on Generative AI, foundation models, and agentic systems.
+* **Start with:** [PowerAgent (Agentic AI)](#core-projects) & [GridFM (Foundation Models)](#core-projects)
+* **Review:** [Generative AI & LLMs Research](#generative-ai--llms)
+* **Explore:** [Foundational Organizations & Groups](#-foundational-organizations--groups) (like LF Energy)
 
 ---
 
@@ -32,7 +59,7 @@ A curated list of foundational papers and recent research on the application of 
 ### Generative AI & LLMs
 * **[Generative Artificial Intelligence for the Power Grid](https://www.nrel.gov/grid/generative-artificial-intelligence-for-the-power-grid.html)**: (NREL) Exploring the potential of GenAI for power grid applications.
 * **[Special Issue: Generative AI Applications for Power Systems](https://www.mdpi.com/journal/ai/special_issues/6T153T52LZ)**: (MDPI) A collection of papers on GenAI for power systems.
-* **[GENERATIVE AI FOR THE POWER SECTOR: APPLICABILITY, SAFETY, AND TRUSTWORTHINESS](httpshttps://iaee2025paris.org/download/contribution/abstract/446/4460117071703.pdf)**: (IAEE 2025) Abstract on the practical application and risks of GenAI.
+* **[GENERATIVE AI FOR THE POWER SECTOR: APPLICABILITY, SAFETY, AND TRUSTWORTHINESS](https://iaee2025paris.org/download/contribution/abstract/446/4460117071703.pdf)**: (IAEE 2025) Abstract on the practical application and risks of GenAI.
 * **[What generative AI can do for the power sector](https://www.dnv.com/article/what-generative-ai-can-do-for-the-power-sector/)**: (DNV) Industry perspective on GenAI use cases.
 * **[Power Hungry Part 6 - AI and the Bulk Power System](https://www.energycentral.com/renewables/post/power-hungry-part-6-ai-and-the-bulk-power-system-8C1qbApn6vcEZug)**: (Energy Central) Analysis of AI impact on the BPS.
 
@@ -60,4 +87,3 @@ A curated list of foundational papers and recent research on the application of 
 * **[LF Energy](https://lfenergy.org/)**: A Linux Foundation project to open-source the power systems stack.
 * **[LF Energy - Artificial Intelligence SIG](https://lfenergy.org/groups/artificial-intelligence-sig/)**: The AI Special Interest Group within LF Energy.
 * **[Grid Modernization Laboratory Consortium (GMLC)](https://gmlc.doe.gov/)**: (DOE) A strategic partnership between the DOE and national laboratories.
-An authoritative compendium of AI/ML resources for the Bulk Power System (BPS) and utility sector.
